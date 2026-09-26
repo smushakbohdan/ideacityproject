@@ -1,0 +1,6 @@
+{
+  "name": "Ideal City (IDC)",
+  "description": "Webová platforma, čo mení sťažnosti na reálne opravy na 2 kliky. AI maže duplicity a tvorí tepelnú mapu pre mesto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
