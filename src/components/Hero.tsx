@@ -36,10 +36,7 @@ export const Hero: React.FC<HeroProps> = ({ onScrollToFeatures, onScrollToSimula
               &ldquo;Webová platforma, čo mení sťažnosti na reálne opravy na 2 kliky. AI maže duplicity a tvorí tepelnú mapu pre mesto.&rdquo;
             </p>
             <div className="mt-2.5 flex items-center justify-center gap-2 text-xs text-slate-400">
-              <span className="font-mono tabular-nums text-emerald-400 font-semibold">111</span>
-              <span>znakov</span>
               <span aria-hidden="true">·</span>
-              <span>Oficiálna anotácia projektu</span>
             </div>
           </div>
 
