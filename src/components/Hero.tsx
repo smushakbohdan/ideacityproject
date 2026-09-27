@@ -35,9 +35,6 @@ export const Hero: React.FC<HeroProps> = ({ onScrollToFeatures, onScrollToSimula
             <p className="text-lg sm:text-xl font-medium text-slate-200 leading-relaxed text-balance">
               &ldquo;Webová platforma, čo mení sťažnosti na reálne opravy na 2 kliky. AI maže duplicity a tvorí tepelnú mapu pre mesto.&rdquo;
             </p>
-            <div className="mt-2.5 flex items-center justify-center gap-2 text-xs text-slate-400">
-              <span aria-hidden="true">·</span>
-            </div>
           </div>
 
           {/* CTA Buttons */}
